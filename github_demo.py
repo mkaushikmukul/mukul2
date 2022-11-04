@@ -11,3 +11,5 @@ Original file is located at
 #write your name
 
 name = "Mukul"
+
+name != "Mukul
